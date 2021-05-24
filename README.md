@@ -97,18 +97,6 @@ I'm currently interested in/excited about:
 
 ---
 
-## Highlights
-
-The most interesting of what I'm watching, reading, and doing:
-
-[**Click here for playlists and tweets. Articles, talks, tutorials, and more**](https://syknapse.github.io/My-Learning-Tracker/)
-
-And here is a chronological log of the highlights of my learning:
-
-[**My Learning Log**](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md)
-
----
-
 ## Web Development Checklist
 
 This is a list of basic objectives to meet on the road to mastering web development.
@@ -139,4 +127,4 @@ This is a list of basic objectives to meet on the road to mastering web developm
 
 ### Acknowledgments
 
-This has been inspired by [Syk Houdeib](https://github.com/Syknapse), which I initially discovered from reading his very inpiring blog on [freeCodeCamp](https://www.freecodecamp.org/news/the-tools-and-resources-that-landed-me-a-front-end-developer-job-1314c6f1fa7f/)
+This has been inspired by [Syk Houdeib](https://github.com/Syknapse), which I initially discovered from reading his blog on [freeCodeCamp](https://www.freecodecamp.org/news/the-tools-and-resources-that-landed-me-a-front-end-developer-job-1314c6f1fa7f/).
