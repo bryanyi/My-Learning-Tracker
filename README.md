@@ -26,15 +26,15 @@ A complete log of my web development skills, learning, resources, highlights, in
 | **Netlify**                  |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **CSS Grid & Flex-box**      |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **Command line**             |   ![done][done]   |    ![done][done]    |  ![done][done]   |
-| **Next.js**                  |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **Responsive design**        |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **Markdown**                 |   ![done][done]   |    ![done][done]    |  ![done][done]   |
-| **Jira**                     |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **Jira**                     |   ![done][done]   |                     |                  |
 | **GitHub**                   |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **jQuery**                   |   ![done][done]   |    ![done][done]    |                  |
 | **Bootstrap**                |   ![done][done]   |    ![done][done]    |                  |
 | **Mobile first**             |   ![done][done]   |    ![done][done]    |                  |
 | **Accessibility**            |   ![done][done]   |    ![done][done]    |                  |
+| **Next.js**                  |   ![done][done]   |                     |                  |
 | **SASS**                     |   ![done][done]   |                     |                  |
 | **EsLint**                   |   ![done][done]   |                     |                  |
 | **Open Source Contribution** |   ![done][done]   |                     |                  |
