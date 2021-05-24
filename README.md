@@ -28,12 +28,12 @@ A complete log of my web development skills, learning, resources, highlights, in
 | **Command line**             |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **Responsive design**        |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **Markdown**                 |   ![done][done]   |    ![done][done]    |  ![done][done]   |
-| **Jira**                     |   ![done][done]   |                     |                  |
 | **GitHub**                   |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **jQuery**                   |   ![done][done]   |    ![done][done]    |                  |
 | **Bootstrap**                |   ![done][done]   |    ![done][done]    |                  |
 | **Mobile first**             |   ![done][done]   |    ![done][done]    |                  |
 | **Accessibility**            |   ![done][done]   |    ![done][done]    |                  |
+| **Jira**                     |   ![done][done]   |                     |                  |
 | **Next.js**                  |   ![done][done]   |                     |                  |
 | **SASS**                     |   ![done][done]   |                     |                  |
 | **EsLint**                   |   ![done][done]   |                     |                  |
@@ -62,7 +62,7 @@ I'm currently interested in/excited about:
 [//]: # "Reference links to courses"
 [new javascript features ecmascript 2021]: https://brayanarrieta.hashnode.dev/new-javascript-features-ecmascript-2021-with-examples?utm_source=tldrnewsletter
 [javascript hash table – associative array hashing in js]: https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/javascript-hash-table-associative-array-hashing-in-js/amp/
-[how to get a job by building relationships – advice from a senior software engineer]: https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/how-to-get-a-job-by-building-relationships/amp/
+[how to get a job by building relationships]: https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/how-to-get-a-job-by-building-relationships/amp/
 [new alternative to redux for react]: https://javascript.plainenglish.io/new-alternative-of-redux-for-react-de0b420c0c60
 [12 basic sql commands for beginners]: https://betterprogramming.pub/12-basic-sql-commands-for-beginners-1fcb34697ab6
 [50 css best practices & guidelines to write better css]: https://beforesemicolon.medium.com/50-css-best-practices-guidelines-to-write-better-css-c60807e9eee2
@@ -72,7 +72,7 @@ I'm currently interested in/excited about:
 | Article                                                 |                          Source                           |
 | :------------------------------------------------------ | :-------------------------------------------------------: |
 | New JavaScript Features ECMAScript 2021                 |         [New JavaScript Features ECMAScript 2021]         |
-| How to Get a Job by Building Relationships              |       [How to Get a Job by Building Relationships]        |
+| How to Get a Job by Building Relationships              |       [How to get a job by building relationships]        |
 | 12 Basic SQL Commands for Beginners                     |           [12 Basic SQL Commands for Beginners]           |
 | 10 HTML Semantic Tags and When To Use Them              |       [10 HTML Semantic Tags and When To Use Them]        |
 | New Alternative to Redux for React                      |           [New Alternative to Redux for React]            |
