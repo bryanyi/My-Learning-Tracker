@@ -17,9 +17,12 @@ A complete log of my web development skills, learning, resources, highlights, in
 | **Redux**                    |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **Node.js**                  |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **JavaScript**               |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **TypeScript**               |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **ES6**                      |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **HTML**                     |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **CSS**                      |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **SQL**                      |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **GraphQL**                  |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **Git**                      |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **NPM**                      |   ![done][done]   |    ![done][done]    |  ![done][done]   |
 | **Working with APIs**        |   ![done][done]   |    ![done][done]    |  ![done][done]   |
