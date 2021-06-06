@@ -36,6 +36,9 @@ A complete log of my web development skills, learning, resources, highlights, in
 | **Bootstrap**                |   ![done][done]   |    ![done][done]    |                  |
 | **Mobile first**             |   ![done][done]   |    ![done][done]    |                  |
 | **Accessibility**            |   ![done][done]   |    ![done][done]    |                  |
+| **AWS Lambda**               |   ![done][done]   |    ![done][done]    |                  |
+| **AWS RDS**                  |   ![done][done]   |    ![done][done]    |                  |
+| **AWS API Gateway**          |   ![done][done]   |    ![done][done]    |                  |
 | **Jira**                     |   ![done][done]   |                     |                  |
 | **Next.js**                  |   ![done][done]   |                     |                  |
 | **SASS**                     |   ![done][done]   |                     |                  |
