@@ -1,6 +1,6 @@
 # My Learning Tracker
 
-A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
+A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organize, and share my learning.
 
 [Bryan's Web Portfolio](https://www.bryanyi.com/ "bryanyi.com")
 
@@ -10,42 +10,43 @@ A complete log of my web development skills, learning, resources, highlights, in
 
 [done]: https://user-images.githubusercontent.com/29199184/32275438-8385f5c0-bf0b-11e7-9406-42265f71e2bd.png "Done"
 
-| Skill                        | 1<br>Introduction | 2<br>Occasional Use | 3<br>Regular use |
-| :--------------------------- | :---------------: | :-----------------: | :--------------: |
-| **React**                    |   ![done][done]   |    ![done][done]    |  ![done][done]   |
-| **React hooks**              |   ![done][done]   |    ![done][done]    |  ![done][done]   |
-| **Redux**                    |   ![done][done]   |    ![done][done]    |  ![done][done]   |
-| **Node.js**                  |   ![done][done]   |    ![done][done]    |  ![done][done]   |
-| **JavaScript**               |   ![done][done]   |    ![done][done]    |  ![done][done]   |
-| **TypeScript**               |   ![done][done]   |    ![done][done]    |  ![done][done]   |
-| **ES6**                      |   ![done][done]   |    ![done][done]    |  ![done][done]   |
-| **HTML**                     |   ![done][done]   |    ![done][done]    |  ![done][done]   |
-| **CSS**                      |   ![done][done]   |    ![done][done]    |  ![done][done]   |
-| **SQL**                      |   ![done][done]   |    ![done][done]    |  ![done][done]   |
-| **GraphQL**                  |   ![done][done]   |    ![done][done]    |  ![done][done]   |
-| **Git**                      |   ![done][done]   |    ![done][done]    |  ![done][done]   |
-| **NPM**                      |   ![done][done]   |    ![done][done]    |  ![done][done]   |
-| **Working with APIs**        |   ![done][done]   |    ![done][done]    |  ![done][done]   |
-| **Netlify**                  |   ![done][done]   |    ![done][done]    |  ![done][done]   |
-| **CSS Grid & Flex-box**      |   ![done][done]   |    ![done][done]    |  ![done][done]   |
-| **Command line**             |   ![done][done]   |    ![done][done]    |  ![done][done]   |
-| **Responsive design**        |   ![done][done]   |    ![done][done]    |  ![done][done]   |
-| **Markdown**                 |   ![done][done]   |    ![done][done]    |  ![done][done]   |
-| **GitHub**                   |   ![done][done]   |    ![done][done]    |  ![done][done]   |
-| **jQuery**                   |   ![done][done]   |    ![done][done]    |                  |
-| **Bootstrap**                |   ![done][done]   |    ![done][done]    |                  |
-| **Mobile first**             |   ![done][done]   |    ![done][done]    |                  |
-| **Accessibility**            |   ![done][done]   |    ![done][done]    |                  |
-| **AWS Lambda**               |   ![done][done]   |    ![done][done]    |                  |
-| **AWS RDS**                  |   ![done][done]   |    ![done][done]    |                  |
-| **AWS API Gateway**          |   ![done][done]   |    ![done][done]    |                  |
-| **Jira**                     |   ![done][done]   |                     |                  |
-| **Next.js**                  |   ![done][done]   |                     |                  |
-| **SASS**                     |   ![done][done]   |                     |                  |
-| **EsLint**                   |   ![done][done]   |                     |                  |
-| **Open Source Contribution** |   ![done][done]   |                     |                  |
-| **Angular 4**                |   ![done][done]   |                     |                  |
-| **Python**                   |   ![done][done]   |                     |                  |
+| Skill                               | 1<br>Introduction | 2<br>Occasional Use | 3<br>Regular use |
+| :---------------------------------- | :---------------: | :-----------------: | :--------------: |
+| **React**                           |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **React hooks**                     |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **Redux**                           |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **Node.js**                         |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **JavaScript**                      |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **TypeScript**                      |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **ES6**                             |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **HTML**                            |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **CSS**                             |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **SQL**                             |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **GraphQL**                         |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **Git**                             |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **NPM**                             |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **Working with APIs**               |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **Netlify**                         |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **CSS Grid & Flex-box**             |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **Command line**                    |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **Responsive design**               |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **Markdown**                        |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **GitHub**                          |   ![done][done]   |    ![done][done]    |  ![done][done]   |
+| **jQuery**                          |   ![done][done]   |    ![done][done]    |                  |
+| **Bootstrap**                       |   ![done][done]   |    ![done][done]    |                  |
+| **Mobile first**                    |   ![done][done]   |    ![done][done]    |                  |
+| **Accessibility**                   |   ![done][done]   |    ![done][done]    |                  |
+| **AWS Lambda**                      |   ![done][done]   |    ![done][done]    |                  |
+| **AWS RDS**                         |   ![done][done]   |    ![done][done]    |                  |
+| **AWS API Gateway**                 |   ![done][done]   |    ![done][done]    |                  |
+| **AWS Elastic Compute Cloud (EC2)** |   ![done][done]   |                     |                  |
+| **Jira**                            |   ![done][done]   |                     |                  |
+| **Next.js**                         |   ![done][done]   |                     |                  |
+| **SASS**                            |   ![done][done]   |                     |                  |
+| **EsLint**                          |   ![done][done]   |                     |                  |
+| **Open Source Contribution**        |   ![done][done]   |                     |                  |
+| **Angular 4**                       |   ![done][done]   |                     |                  |
+| **Python**                          |   ![done][done]   |                     |                  |
 
 ---
 
@@ -56,6 +57,7 @@ I'm currently interested in/excited about:
 - React.JS
 - JavaScript best practice
 - Microservice architectures with Node.JS
+- Serverless architectures with AWS
 
 ---
 
@@ -92,14 +94,20 @@ I'm currently interested in/excited about:
 
 [//]: # "Reference links to courses"
 [human javascript]: https://read.humanjavascript.com/ch04-organizing-your-code.html
-[scrimba]: https://scrimba.com/allcourses
 [freecodecamp blog]: https://www.freecodecamp.org/news/tag/blog/
+[traversy media]: https://www.youtube.com/c/TraversyMedia
+[web dev simplified]: https://www.youtube.com/c/WebDevSimplified
+[dev ed]: https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q
+[techsith tutorials]: https://www.youtube.com/channel/UCbGZKLIHpox2l0whz6_RYyg
 
-|                   |       Source        |
-| :---------------- | :-----------------: |
-| Human Javascript  | [Human Javascript]  |
-| Scrimba           |      [Scrimba]      |
-| freeCodeCamp Blog | [freeCodeCamp Blog] |
+|      Resource      |        Source        |
+| :----------------: | :------------------: |
+|  Human Javascript  |  [Human Javascript]  |
+| freeCodeCamp Blog  | [freeCodeCamp Blog]  |
+|   Traversy Media   |   [Traversy Media]   |
+| Web Dev Simplified | [Web Dev Simplified] |
+|       Dev Ed       |       [Dev Ed]       |
+| Techsith Tutorials | [Techsith Tutorials] |
 
 ---
 
